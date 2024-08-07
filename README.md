@@ -1,4 +1,5 @@
 #  Check This - https://suto6.github.io/Textify/
+ENABLE THE DARK MODE
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
