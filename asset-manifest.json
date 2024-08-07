@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Textify/static/css/main.b086e9e0.chunk.css",
+    "main.js": "/Textify/static/js/main.20f4b20f.chunk.js",
+    "main.js.map": "/Textify/static/js/main.20f4b20f.chunk.js.map",
+    "runtime-main.js": "/Textify/static/js/runtime-main.26ebe0f1.js",
+    "runtime-main.js.map": "/Textify/static/js/runtime-main.26ebe0f1.js.map",
+    "static/js/2.ec19ef96.chunk.js": "/Textify/static/js/2.ec19ef96.chunk.js",
+    "static/js/2.ec19ef96.chunk.js.map": "/Textify/static/js/2.ec19ef96.chunk.js.map",
+    "static/js/3.9d25297e.chunk.js": "/Textify/static/js/3.9d25297e.chunk.js",
+    "static/js/3.9d25297e.chunk.js.map": "/Textify/static/js/3.9d25297e.chunk.js.map",
+    "index.html": "/Textify/index.html",
+    "precache-manifest.1bff35b252bc26e9333bb6189de0878b.js": "/Textify/precache-manifest.1bff35b252bc26e9333bb6189de0878b.js",
+    "service-worker.js": "/Textify/service-worker.js",
+    "static/css/main.b086e9e0.chunk.css.map": "/Textify/static/css/main.b086e9e0.chunk.css.map",
+    "static/js/2.ec19ef96.chunk.js.LICENSE.txt": "/Textify/static/js/2.ec19ef96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26ebe0f1.js",
+    "static/js/2.ec19ef96.chunk.js",
+    "static/css/main.b086e9e0.chunk.css",
+    "static/js/main.20f4b20f.chunk.js"
+  ]
+}
